@@ -1,5 +1,6 @@
-numpy == 2.4.2  (for arrays)
-pickle-mixin == 1.0.2  (use for saving and loading trainet models)
-streamlit == 1.54.0    (for ui web)
-streamlit-option-menu == 0.4.0 (for create a navigation sidebar)
-scikit-learn == 1.8.0  (for building models)
+numpy == 2.4.2  
+pickle-mixin == 1.0.2  
+streamlit == 1.54.0    
+streamlit_option_menu == 0.4.0 
+scikit-learn == 1.8.0  
+
